@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+header{
+    background-color: #333333;
+}
+a{
+    color: #FFFFFF;
+}
+section{
+    color:#0099FF;
+}
+p.date{
+    font-size: 14px;
+    font-style: italic;
+    color: gray;
+}
+h3>a{
+    color: red;
+}
+#destaques li:nth-child(odd) {
+    background-color:  #F2F2F2;
+}
+#recentes>ul>li>article>h3>a{
+   color: #FF9900 ;
+}
